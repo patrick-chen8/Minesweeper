@@ -1,0 +1,123 @@
+cs1302-minesweeper-alpha:
+total 2564
+drwxr-xr-x. 3 myid      28 Feb 10 21:24 bin
+drwxr-xr-x. 2 myid    4096 Feb 10 21:02 examples
+-rw-r--r--. 1 myid 2525747 Feb 10 21:02 mine.jpg
+-rw-r--r--. 1 myid   64649 Feb 10 21:02 README.md
+-rw-r--r--. 1 myid       0 Feb 15 22:19 rec10457
+-rw-r--r--. 1 myid    5039 Feb 14 23:12 rec19866
+-rw-r--r--. 1 myid    4990 Feb 14 23:05 rec6941
+drwxr-xr-x. 2 myid      80 Feb 14 22:41 resources
+drwxr-xr-x. 3 myid      28 Feb 10 21:02 src
+drwxr-xr-x. 2 myid    4096 Feb 10 21:02 tests
+-rw-r--r--. 1 myid    7236 Feb 10 21:02 uml_diagram.asta
+
+cs1302-minesweeper-alpha/bin:
+total 0
+drwxr-xr-x. 3 myid 26 Feb 10 21:24 cs1302
+
+cs1302-minesweeper-alpha/bin/cs1302:
+total 0
+drwxr-xr-x. 2 myid 78 Feb 10 21:56 game
+
+cs1302-minesweeper-alpha/bin/cs1302/game:
+total 12
+-rw-r--r--. 1 myid  817 Feb 15 21:07 MinesweeperDriver.class
+-rw-r--r--. 1 myid 7743 Feb 15 21:07 MinesweeperGame.class
+
+cs1302-minesweeper-alpha/examples:
+total 144
+-rw-r--r--. 1 myid 484 Feb 10 21:02 10-by-10.txt
+-rw-r--r--. 1 myid 264 Feb 10 21:02 10-by-5.txt
+-rw-r--r--. 1 myid 308 Feb 10 21:02 10-by-6.txt
+-rw-r--r--. 1 myid 352 Feb 10 21:02 10-by-7.txt
+-rw-r--r--. 1 myid 396 Feb 10 21:02 10-by-8.txt
+-rw-r--r--. 1 myid 440 Feb 10 21:02 10-by-9.txt
+-rw-r--r--. 1 myid 264 Feb 10 21:02 5-by-10.txt
+-rw-r--r--. 1 myid 144 Feb 10 21:02 5-by-5.txt
+-rw-r--r--. 1 myid 168 Feb 10 21:02 5-by-6.txt
+-rw-r--r--. 1 myid 192 Feb 10 21:02 5-by-7.txt
+-rw-r--r--. 1 myid 216 Feb 10 21:02 5-by-8.txt
+-rw-r--r--. 1 myid 240 Feb 10 21:02 5-by-9.txt
+-rw-r--r--. 1 myid 308 Feb 10 21:02 6-by-10.txt
+-rw-r--r--. 1 myid 168 Feb 10 21:02 6-by-5.txt
+-rw-r--r--. 1 myid 196 Feb 10 21:02 6-by-6.txt
+-rw-r--r--. 1 myid 224 Feb 10 21:02 6-by-7.txt
+-rw-r--r--. 1 myid 252 Feb 10 21:02 6-by-8.txt
+-rw-r--r--. 1 myid 280 Feb 10 21:02 6-by-9.txt
+-rw-r--r--. 1 myid 352 Feb 10 21:02 7-by-10.txt
+-rw-r--r--. 1 myid 192 Feb 10 21:02 7-by-5.txt
+-rw-r--r--. 1 myid 224 Feb 10 21:02 7-by-6.txt
+-rw-r--r--. 1 myid 256 Feb 10 21:02 7-by-7.txt
+-rw-r--r--. 1 myid 288 Feb 10 21:02 7-by-8.txt
+-rw-r--r--. 1 myid 320 Feb 10 21:02 7-by-9.txt
+-rw-r--r--. 1 myid 396 Feb 10 21:02 8-by-10.txt
+-rw-r--r--. 1 myid 216 Feb 10 21:02 8-by-5.txt
+-rw-r--r--. 1 myid 252 Feb 10 21:02 8-by-6.txt
+-rw-r--r--. 1 myid 288 Feb 10 21:02 8-by-7.txt
+-rw-r--r--. 1 myid 324 Feb 10 21:02 8-by-8.txt
+-rw-r--r--. 1 myid 360 Feb 10 21:02 8-by-9.txt
+-rw-r--r--. 1 myid 440 Feb 10 21:02 9-by-10.txt
+-rw-r--r--. 1 myid 240 Feb 10 21:02 9-by-5.txt
+-rw-r--r--. 1 myid 280 Feb 10 21:02 9-by-6.txt
+-rw-r--r--. 1 myid 320 Feb 10 21:02 9-by-7.txt
+-rw-r--r--. 1 myid 360 Feb 10 21:02 9-by-8.txt
+-rw-r--r--. 1 myid 400 Feb 10 21:02 9-by-9.txt
+
+cs1302-minesweeper-alpha/resources:
+total 12
+-rw-r--r--. 1 myid  235 Feb 10 21:02 gameover.txt
+-rw-r--r--. 1 myid 1682 Feb 14 22:41 gamewon.txt
+-rw-r--r--. 1 myid  303 Feb 10 21:02 welcome.txt
+
+cs1302-minesweeper-alpha/src:
+total 0
+drwxr-xr-x. 3 myid 26 Feb 10 21:02 cs1302
+
+cs1302-minesweeper-alpha/src/cs1302:
+total 0
+drwxr-xr-x. 2 myid 76 Feb 15 21:14 game
+
+cs1302-minesweeper-alpha/src/cs1302/game:
+total 24
+-rw-r--r--. 1 myid   655 Feb 14 22:53 MinesweeperDriver.java
+-rw-r--r--. 1 myid 16978 Feb 15 21:14 MinesweeperGame.java
+
+cs1302-minesweeper-alpha/tests:
+total 136
+-rw-r--r--. 1 myid  867 Feb 10 21:02 tc01.combined.txt
+-rw-r--r--. 1 myid    0 Feb 10 21:02 tc01.err.txt
+-rw-r--r--. 1 myid    2 Feb 10 21:02 tc01.in.txt
+-rw-r--r--. 1 myid  867 Feb 10 21:02 tc01.out.txt
+-rw-r--r--. 1 myid   24 Feb 10 21:02 tc01.seed.txt
+-rw-r--r--. 1 myid 7394 Feb 10 21:02 tc02.combined.txt
+-rw-r--r--. 1 myid    0 Feb 10 21:02 tc02.err.txt
+-rw-r--r--. 1 myid  187 Feb 10 21:02 tc02.in.txt
+-rw-r--r--. 1 myid 7394 Feb 10 21:02 tc02.out.txt
+-rw-r--r--. 1 myid   30 Feb 10 21:02 tc02.seed.txt
+-rw-r--r--. 1 myid   90 Feb 10 21:02 tc03.combined.txt
+-rw-r--r--. 1 myid   90 Feb 10 21:02 tc03.err.txt
+-rw-r--r--. 1 myid    1 Feb 10 21:02 tc03.in.txt
+-rw-r--r--. 1 myid    0 Feb 10 21:02 tc03.out.txt
+-rw-r--r--. 1 myid   22 Feb 10 21:02 tc03.seed.txt
+-rw-r--r--. 1 myid 9118 Feb 10 21:02 tc04.combined.txt
+-rw-r--r--. 1 myid    0 Feb 10 21:02 tc04.err.txt
+-rw-r--r--. 1 myid  236 Feb 10 21:02 tc04.in.txt
+-rw-r--r--. 1 myid 9118 Feb 10 21:02 tc04.out.txt
+-rw-r--r--. 1 myid   30 Feb 10 21:02 tc04.seed.txt
+-rw-r--r--. 1 myid  924 Feb 10 21:02 tc05.combined.txt
+-rw-r--r--. 1 myid    0 Feb 10 21:02 tc05.err.txt
+-rw-r--r--. 1 myid   12 Feb 10 21:02 tc05.in.txt
+-rw-r--r--. 1 myid  924 Feb 10 21:02 tc05.out.txt
+-rw-r--r--. 1 myid   30 Feb 10 21:02 tc05.seed.txt
+-rw-r--r--. 1 myid   90 Feb 10 21:02 tc06.combined.txt
+-rw-r--r--. 1 myid   90 Feb 10 21:02 tc06.err.txt
+-rw-r--r--. 1 myid   44 Feb 10 21:02 tc06.in.txt
+-rw-r--r--. 1 myid    0 Feb 10 21:02 tc06.out.txt
+-rw-r--r--. 1 myid   24 Feb 10 21:02 tc06.seed.txt
+-rw-r--r--. 1 myid   90 Feb 10 21:02 tc07.combined.txt
+-rw-r--r--. 1 myid   90 Feb 10 21:02 tc07.err.txt
+-rw-r--r--. 1 myid   44 Feb 10 21:02 tc07.in.txt
+-rw-r--r--. 1 myid    0 Feb 10 21:02 tc07.out.txt
+-rw-r--r--. 1 myid   24 Feb 10 21:02 tc07.seed.txt
+/home/myid/pgc19941/cs1302-minesweeper-alpha:/home/myid/csci-1302
